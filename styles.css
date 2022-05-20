@@ -2,22 +2,22 @@ body {
     background-color: snow;
 }
 
-#tartalom, header, footer, nav, table{
+#tartalom, header, footer, nav, table {
     padding: 20px;
-    margin: 10px;
+    margin: 10px auto;
     border: 1px solid steelblue;
-    
+    max-width: 1280px;
 }
 
 h1 {
-    color:steelblue;
+    color: steelblue;
 }
 
 h2 {
     border-bottom: 1px solid steelblue;
     width: 60%;
     padding: 10px;
-    color:steelblue;
+    color: steelblue;
 }
 
 img {
@@ -42,9 +42,9 @@ img {
 }
 
 a {
-    color:steelblue;
+    color: steelblue;
 }
 
 a:hover {
-    color:navy;
+    color: navy;
 }
